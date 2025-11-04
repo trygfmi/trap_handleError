@@ -210,11 +210,7 @@ hello trap command world</code></pre>
 
 
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git --version
-chmod 744 start_trap_handleError.sh
-cat errorMethod.sh
-cat start_trap_handleError.sh
-./start_trap_handleError.sh</code></pre>
+git --version</code></pre>
 
 
 
