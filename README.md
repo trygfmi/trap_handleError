@@ -35,7 +35,12 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
@@ -56,7 +61,13 @@ hello trap command world</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
+git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
@@ -78,7 +89,12 @@ hello trap command world</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
@@ -95,7 +111,12 @@ hello trap command world</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
@@ -156,7 +177,12 @@ hello trap command world</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
@@ -183,7 +209,8 @@ hello trap command world</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
+git --version</code></pre>
 
 
 
@@ -210,7 +237,8 @@ hello trap command world</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install gitecho 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
+echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
 
 
 
@@ -223,7 +251,13 @@ hello trap command world</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
+git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
@@ -319,7 +353,12 @@ hello trap command world</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
@@ -336,7 +375,12 @@ hello trap command world</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleErrorcd trap_handleErrorchmod 744 start_trap_handleError.shcat errorMethod.shcat start_trap_handleError.sh./start_trap_handleError.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trap_handleError
+cd trap_handleError
+chmod 744 start_trap_handleError.sh
+cat errorMethod.sh
+cat start_trap_handleError.sh
+./start_trap_handleError.sh</code></pre>
 
 
 
